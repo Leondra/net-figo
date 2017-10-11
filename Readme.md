@@ -1,3 +1,10 @@
+This is a fork from https://github.com/figo-connect/net-figo
+
+It supports .Net Core 1.1 and uses xUnit as a Testing Framework
+
+Original Readme:
+===========================================================
+
 figo.net [![NuGet Version](http://img.shields.io/nuget/v/figo.svg?style=flat)](https://www.nuget.org/packages/figo/)
 ===========
 
