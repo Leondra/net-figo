@@ -9,3 +9,4 @@ WebDemo/obj/
 packages/
 *.suo
 *.nupkg
+.vs/figo.net/v15/sqlite3/storage.ide
