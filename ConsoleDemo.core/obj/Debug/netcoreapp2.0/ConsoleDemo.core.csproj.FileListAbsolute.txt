@@ -1,0 +1,13 @@
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\bin\Debug\netcoreapp2.0\ConsoleDemo.core.deps.json
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\bin\Debug\netcoreapp2.0\ConsoleDemo.core.runtimeconfig.json
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\bin\Debug\netcoreapp2.0\ConsoleDemo.core.runtimeconfig.dev.json
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\bin\Debug\netcoreapp2.0\ConsoleDemo.core.dll
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\bin\Debug\netcoreapp2.0\ConsoleDemo.core.pdb
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\bin\Debug\netcoreapp2.0\figo.net.core.dll
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\bin\Debug\netcoreapp2.0\figo.net.core.pdb
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\obj\Debug\netcoreapp2.0\ConsoleDemo.core.csprojResolveAssemblyReference.cache
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\obj\Debug\netcoreapp2.0\ConsoleDemo.core.csproj.CoreCompileInputs.cache
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\obj\Debug\netcoreapp2.0\ConsoleDemo.core.AssemblyInfoInputs.cache
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\obj\Debug\netcoreapp2.0\ConsoleDemo.core.AssemblyInfo.cs
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\obj\Debug\netcoreapp2.0\ConsoleDemo.core.dll
+C:\Users\theju\Source\net-figo.git\ConsoleDemo.core\obj\Debug\netcoreapp2.0\ConsoleDemo.core.pdb

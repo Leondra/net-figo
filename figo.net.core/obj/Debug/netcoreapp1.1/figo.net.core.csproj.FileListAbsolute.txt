@@ -1,0 +1,9 @@
+C:\Users\theju\Source\net-figo.git\figo.net.core\bin\Debug\netcoreapp1.1\figo.net.core.deps.json
+C:\Users\theju\Source\net-figo.git\figo.net.core\bin\Debug\netcoreapp1.1\figo.net.core.dll
+C:\Users\theju\Source\net-figo.git\figo.net.core\bin\Debug\netcoreapp1.1\figo.net.core.pdb
+C:\Users\theju\Source\net-figo.git\figo.net.core\obj\Debug\netcoreapp1.1\figo.net.core.csprojResolveAssemblyReference.cache
+C:\Users\theju\Source\net-figo.git\figo.net.core\obj\Debug\netcoreapp1.1\figo.net.core.csproj.CoreCompileInputs.cache
+C:\Users\theju\Source\net-figo.git\figo.net.core\obj\Debug\netcoreapp1.1\figo.net.core.AssemblyInfoInputs.cache
+C:\Users\theju\Source\net-figo.git\figo.net.core\obj\Debug\netcoreapp1.1\figo.net.core.AssemblyInfo.cs
+C:\Users\theju\Source\net-figo.git\figo.net.core\obj\Debug\netcoreapp1.1\figo.net.core.dll
+C:\Users\theju\Source\net-figo.git\figo.net.core\obj\Debug\netcoreapp1.1\figo.net.core.pdb

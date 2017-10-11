@@ -1,0 +1,4 @@
+C:\Users\theju\Source\net-figo.git\figo.net.core\obj\Debug\netstandard1.6\figo.net.core.csprojResolveAssemblyReference.cache
+C:\Users\theju\Source\net-figo.git\figo.net.core\obj\Debug\netstandard1.6\figo.net.core.csproj.CoreCompileInputs.cache
+C:\Users\theju\Source\net-figo.git\figo.net.core\obj\Debug\netstandard1.6\figo.net.core.AssemblyInfoInputs.cache
+C:\Users\theju\Source\net-figo.git\figo.net.core\obj\Debug\netstandard1.6\figo.net.core.AssemblyInfo.cs

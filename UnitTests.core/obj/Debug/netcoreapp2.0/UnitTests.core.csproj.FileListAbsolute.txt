@@ -1,0 +1,16 @@
+C:\Users\theju\Source\net-figo.git\UnitTests.core\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\theju\Source\net-figo.git\UnitTests.core\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\theju\Source\net-figo.git\UnitTests.core\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\theju\Source\net-figo.git\UnitTests.core\bin\Debug\netcoreapp2.0\UnitTests.core.deps.json
+C:\Users\theju\Source\net-figo.git\UnitTests.core\bin\Debug\netcoreapp2.0\UnitTests.core.runtimeconfig.json
+C:\Users\theju\Source\net-figo.git\UnitTests.core\bin\Debug\netcoreapp2.0\UnitTests.core.runtimeconfig.dev.json
+C:\Users\theju\Source\net-figo.git\UnitTests.core\bin\Debug\netcoreapp2.0\UnitTests.core.dll
+C:\Users\theju\Source\net-figo.git\UnitTests.core\bin\Debug\netcoreapp2.0\UnitTests.core.pdb
+C:\Users\theju\Source\net-figo.git\UnitTests.core\bin\Debug\netcoreapp2.0\figo.net.core.dll
+C:\Users\theju\Source\net-figo.git\UnitTests.core\bin\Debug\netcoreapp2.0\figo.net.core.pdb
+C:\Users\theju\Source\net-figo.git\UnitTests.core\obj\Debug\netcoreapp2.0\UnitTests.core.csprojResolveAssemblyReference.cache
+C:\Users\theju\Source\net-figo.git\UnitTests.core\obj\Debug\netcoreapp2.0\UnitTests.core.csproj.CoreCompileInputs.cache
+C:\Users\theju\Source\net-figo.git\UnitTests.core\obj\Debug\netcoreapp2.0\UnitTests.core.AssemblyInfoInputs.cache
+C:\Users\theju\Source\net-figo.git\UnitTests.core\obj\Debug\netcoreapp2.0\UnitTests.core.AssemblyInfo.cs
+C:\Users\theju\Source\net-figo.git\UnitTests.core\obj\Debug\netcoreapp2.0\UnitTests.core.dll
+C:\Users\theju\Source\net-figo.git\UnitTests.core\obj\Debug\netcoreapp2.0\UnitTests.core.pdb
